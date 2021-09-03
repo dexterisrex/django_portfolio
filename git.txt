@@ -1,0 +1,35 @@
+
+git init  = to initiate the git repository
+git status = to check the status of the files in the repository
+git add . = to add all the files in the staging area
+git commit -m "Initial Commit" = to all 
+git log = has the entery of the commits that have been made
+git branch = to know all your branches
+
+
+lifecycle of a file in git
+1.untracked 
+2.tracked
+3.unstaged
+4.staged
+5.uncommited
+6.commited
+
+
+xxxxxxxxxxxx work flow xxxxxxxx
+
+GIT
+
+create a folder 
+add all the files in it
+open git bash
+git init
+git status
+git add .
+git commit -m "message"
+
+GITHUB
+
+create a repo
+git remote add origin https://github.com/dexterisrex/projectName.git
+git push -u origin master

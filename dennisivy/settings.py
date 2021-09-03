@@ -148,7 +148,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EML_USE_TLS = True
 EMAIL_HOST_USER = 'rahulsharma.sharma931@gmail.com'
-EMAIL_HOST_PASSWORD = 'kuknaecqhtrzptxw'
+EMAIL_HOST_PASSWORD = '1234567890'
 
 #RichEditor config
 CKEDITOR_UPLOAD_PATH = 'uploads/'
